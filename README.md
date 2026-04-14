@@ -38,6 +38,9 @@ Tactical working memory (16 slots × 8 values) with consolidation
 Frame-phase awareness via sin/cos channels
 Fully independent button heads for true combo freedom
 
+To Run:
+Launch train3.py and wait for it to generate the necessary files then launch SC2Hook.exe to run in parallel.
+
 Issues: Several buttons pressing at once
         Reward logic zeroed out in trainer3.py for debugging reasons (didnt help)
 
